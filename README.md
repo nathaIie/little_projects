@@ -8,7 +8,7 @@ Welcome to the **little spark projects** repo!:) This collection houses small ac
 
 ### 2. LLM Ninja - NLP
 - **File:** `llm_ninja.ipynb`
-- **Description:** In this notebook I explore **V2 release of the DAIGT train dataset** (https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset) and search for the unique characteristics of LLM-generated texts.
+- **Description:** In this notebook I explore [V2 release of the DAIGT train dataset](https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset) and search for the unique characteristics of LLM-generated texts.
 
 ## Data
 All utilized datasets in the notebooks are stored in the `data` folder within this repository.
